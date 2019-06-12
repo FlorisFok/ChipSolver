@@ -1,0 +1,1 @@
+python .\main.py 4 22 10 sima
